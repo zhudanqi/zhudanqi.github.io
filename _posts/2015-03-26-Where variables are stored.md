@@ -1,7 +1,7 @@
 ---
 layout: post
 title: C++变量存在了哪
-category: Algorithm
+category: c++
 tags: c++ Underlying
 keywords: c++，底层
 description: 这篇博客简单介绍了c++的变量存在了内存的什么位置。
